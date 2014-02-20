@@ -1,0 +1,16 @@
+{
+  "name": "hugojosefson-require-all-for-angular-modules",
+  "description": "Requires all `*-for-angular` modules, so we know they have all registered themselves to angular.",
+  "version": "1.0.1.snapshot",
+  "keywords": [
+    "require",
+    "angular",
+    "angularjs",
+    "for-angular",
+    "module",
+    "modules"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
